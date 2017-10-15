@@ -1,0 +1,22 @@
+#card {
+  height: 10px;
+  width: 10px; }
+
+body {
+  position: relative;
+  background-color: black; }
+
+#aboutcard {
+  text-align: center; }
+
+#line {
+  border: none;
+  height: 5px;
+  background-color: black; }
+
+#faq {
+  text-align: center;
+  padding-top: 15px; }
+
+#quest {
+  text-align: center; }
